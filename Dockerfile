@@ -10,6 +10,7 @@ RUN apt-get update && \
      curl \
      fonts-freefont-ttf \
      gcc \
+     ghostscript \
      git \
      libapache2-mod-php7.2 \
      libphp-phpmailer \
