@@ -20,6 +20,7 @@ RUN apt-get update && \
      php-curl \
      php-dev \
      php-gd \
+     php-intl \
      php-mbstring \
      php-mysql \
      php-pear \
